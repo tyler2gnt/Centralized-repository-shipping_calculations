@@ -1,5 +1,4 @@
 # Here is a new update by tyler2gnt
-# Here is another update by tyler2gnt
 
 # Shipping Cost Calculator
 
